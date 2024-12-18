@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    margin: 20px 0;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #222;
+    font-weight: bold;
+}
+.teams {
+    padding: 20px;
+}
+.teams h2 {
+    text-align: center;
+}
+.teams ol {
+    margin: 20px auto;
+    padding: 0;
+    width: 70%;
+}
+.teams ul {
+    margin: 10px 0 20px 20px;
+    list-style-type: disc;
+}
+.media {
+    padding: 20px;
+    text-align: center;
+}
+.media img {
+    max-width: 100%;
+    height: auto;
+}
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.homebg{
+    background-color: gray;
+}
+
+div{padding-left: 200px;
+    padding-top: 20px;} 
+
+/* .div2{padding-left: 600px;
+        padding-top: 20px;} */
